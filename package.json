@@ -1,0 +1,19 @@
+{
+  "name": "north",
+  "version": "0.1.0",
+  "description": "Cordova based Android/IOS app for discovering what's ahead of you.",
+  "main": "dist/north.min.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wildhoney/North.git"
+  },
+  "author": "Adam Timberlake <adam.timberlake@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wildhoney/North/issues"
+  },
+  "homepage": "https://github.com/Wildhoney/North"
+}
