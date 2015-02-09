@@ -1,0 +1,21 @@
+{
+  "name": "north",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Wildhoney/North",
+  "authors": [
+    "Adam Timberlake <adam.timberlake@gmail.com>"
+  ],
+  "description": "Cordova based Android/IOS app for discovering what's ahead of you.",
+  "main": "dist/north.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": "~0.9.27"
+  }
+}
